@@ -14,7 +14,7 @@ namespace EsercizioAsyncAwait1
             ScaricaPaginaWebAsync("http://google.com");
 
             ScaricaPaginaWeb("http://google.com");
-
+              
             Console.ReadLine();
         }
 
